@@ -1,16 +1,14 @@
 # Bomberman LBP2
-Repository designed to showcase Bomberman LBP2, a personal project undertaken in my own free time during my studies where I recreated Bomberman using the game engine tools provided by the LittleBigPlanet 2 game.
+Repository designed to showcase Bomberman LBP2, a personal project undertaken in my own free time where I took it upon myself to explore the design philosophy of the Bomberman series and to learn about the practices of independent game development. The game is finished and fully functional, yet several planned features have been forcibly omitted as the game engine suffers from serious memory constraint issues.
 
 
 ## Getting Started
-// PS3 and LBP2 required
-// Story mode boss to unlock community
-// Search for level/level author
+A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/PlayStation_3) and a copy of [Media Molecule's LittleBigPlanet 2 (LBP2) video game](https://en.wikipedia.org/wiki/LittleBigPlanet_2) are required to play the game. New users of the game will need to progress through the first world of the **Story** section to unlock the required **Community** section. From the **Community** section, select **Text Search** and either search for **Bomberman LBP2** (the level title) or **XZairX** (the PlayStation Network ID of myself, the level author). The former will return a large set results relating to user-generated Bomberman levels whereas the latter will only return levels published by the author that was searched against. Simply navigate through the results until the Bomberman LBP2 level is located, select it, and the game will start.
 
 
 ### Prerequisites
-* PlayStation 3
-* LittleBigPlanet 2
+* Sony PlayStation 3 video game console
+* LittleBigPlanet 2 video game
 
 
 ## Level Showcase
