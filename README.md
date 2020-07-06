@@ -12,7 +12,7 @@ A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/Pl
 
 
 ## Level Showcase
-The following sections will detail the design and mechanisms of the screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand.
+The following sections will detail the design and mechanisms of the screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions taken after gathering player feedback.
 
 
 ### Video Demonstration
@@ -47,13 +47,22 @@ The leftmost column represents a setting's default value whereas the rightmost c
 //SETTINGS Menu Image
 
 
-### TITLE Menu (Revisited)
-// PLAY
+### PLAY
+After all menus have been visited, a new "PLAY" button prompt appears on the "TITLE" menu. It is additionally accompanied by some information which informs the players of a hidden quick-start feature should they revisit the level. The "PLAY" function transports the players to the game arena where the main gameplay takes place.
 
-In its initial stages of development, the player could freely select all of the menu options the moment they entered the level, including the ability to initiate the main gameplay. Though more practical, this design approach was scrapped as users would haphazardly jump into the game without.
+In its initial stages of development, the player could freely select between all the different menus options from the first screen of the level, including the ability to transport themselves to the game arena. Unfortunately, this resulted in naive newcomers haphazardly jumping straight into the main gameplay of the game, robbing themselves of the Bomberman experience and jeopardising their important first impressions.
+ 
+I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so they weren't left clueless during gameplay. Although the current menu system is less user-friendly, player satisfaction has seen a positive increase.
 
-### Gameplay
-// Gameplay
+// PLAY Option Image
+
+
+### Gameplay (Single-player)
+// Gameplay (Single)
+
+
+### Gameplay (Multiplayer)
+// Gameplay (Multi)
 
 
 ### Photo Time
