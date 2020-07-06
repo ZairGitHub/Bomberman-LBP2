@@ -58,19 +58,30 @@ I aimed to redesign the menu system in a way that allowed for the game to be sta
 
 
 ### Gameplay (Single-player)
-// Gameplay (Single)
+This screen shows the initial game state of the game arena. To the left is the player HUD and to the right is the Power-UP Key. These two components are present to aid the player during gameplay as the level is primarily designed with newcomers to the Bomberman formula in mind. An information message exclusive to the single-player mode is activated to notify unwary players that the level has been designed to be enjoyed as a multiplayer experience.
+
+// Single-player Information Message Image
 
 
 ### Gameplay (Multiplayer)
-// Gameplay (Multi)
+Players have two minutes to complete their objective to survive as the last player standing. Players will drop bombs in an effort to remove the soft blocks that obstruct their path between one another. As they do so, they will discover power-ups which they can pick up to strengthen their chances of survival. If two or more players are alive after the alloted two minutes have passed, the game is declared to be a draw and the alive players share the victory together.
+
+// Multiplayer Frame Image
 
 
-### Photo Time
-// Photos + Sharing
+### Photo Session
+After the game ends by means of a draw, win/loss, or time out, all of the players are transported to this screen where their avatar's built-in emotions and pose for a quick timed photo session. This section is completely irrelevant to the game and is catered to that of the LBP2 community itself. LBP2 allows for players to upload in-game photos to their profiles as a means of sharing their experiences. Uploaded photos do not provide information for where the picture was taken when viewed in-game so the level title has been provided for a reference to help share the level.
+
+// Photo Session Image
 
 
 ### Final State
 // Thanks for playing
+
+
+### Omitted Features
+Rounds, Pressure Blocks, Bomb Kick, Bomb Throw, Bomb Punch, Penetration Bomb
+(may be merged into Final State)
 
 
 ## Authors
