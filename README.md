@@ -28,20 +28,29 @@ The menu is populated with a "TITLE" header, a level title header, and the optio
 
 
 ### CONTROLS Menu
-// CONTROLS
+A simple menu which displays a visual interface for the game's button map. As the player progresses through these menus, the positioning of the menu title header will shift either right or left to signify a forward or backward movement in menu progression. This menu previously featured more button inputs which were mapped to dropping specific special bombs, but these have since been compressed into one input after user complaints of being overwhelmed by the many commands.
+
+<CONTROLS Menu Image>
 
 
 ### INSTRUCTIONS Menu
-// INSTRUCTIONS
+This menu holds the bulk of information which informs the player of the functionality of various objects encountered during gameplay. The L1 and R1 buttons are used to toggle left and right between the objects presented. These descriptions were initially very elaborate and detailed averaging at 4 lines each but have since been simplified to 2 lines maximum. This change is a result of analysing player behaviours during beta testing where it was determined that players were helpless during gameplay as the presented information was too profuse to be absorbed.
+
+<INSTRUCTIONS Menu Image>
 
 
 ### SETTINGS Menu
-// SETTINGS
+This menu holds a variety of customisation options to encourage replayability. To be consistent with the control scheme of the other menus (particularly INFORMATION), L1 and R1 can be used to toggle left and right between the options of the settings. The Left Stick Up and Left Stick Down commands can also be used to toggle up and down between the different settings themselves. The button mapping for this functionality is not displayed as it is a natural instinct for users of the LBP2 community.
+
+The leftmost column represents a setting's default value whereas the rightmost column is its maximum. All of these settings are self-explanatory save for CAMERA which increasingly reduces the number of viewable objects during gameplay to optimise the running performance of the game.
+
+<SETTINGS Menu Image>
 
 
 ### TITLE Menu (Revisited)
 // PLAY
 
+In its initial stages of development, the player could freely select all of the menu options the moment they entered the level, including the ability to initiate the main gameplay. Though more practical, this design approach was scrapped as users would haphazardly jump into the game without.
 
 ### Gameplay
 // Gameplay
