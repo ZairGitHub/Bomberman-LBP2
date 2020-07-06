@@ -12,7 +12,7 @@ A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/Pl
 
 
 ## Level Showcase
-// Description of showcase
+The following sections will detail the design and mechanisms of the screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand.
 
 
 ### Video Demonstration
@@ -20,7 +20,11 @@ A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/Pl
 
 
 ### TITLE Menu
-// TITLE
+This is the first thing the player sees upon entering the game. In the LittleBigPlanet series, players have the ability to customise the appearance of their avatars. The menu initially displays 4 default "naked" avatars in a sleeping state but these will awake and be replaced by the custom avatars of players who load their profiles into the game. Active avatars are backlit by a predetermined colour which corresponds to their player colour used during main gameplay section.
+
+The menu is populated with a "TITLE" header, a level title header, and the option to either jump to the the SETTINGS menu or the CONTROLS menu using the appropriate button prompt. All menus can only be controlled by the left-most avatar, a position which is assigned to the first profile which loads into the game.
+
+<TITLE Menu Image>
 
 
 ### CONTROLS Menu
