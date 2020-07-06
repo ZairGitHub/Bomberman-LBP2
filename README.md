@@ -52,7 +52,7 @@ After all menus have been visited, a new "PLAY" button prompt appears on the "TI
 
 In its initial stages of development, the player could freely select between all the different menus options from the first screen of the level, including the ability to transport themselves to the game arena. Unfortunately, this resulted in naive newcomers haphazardly jumping straight into the main gameplay of the game, robbing themselves of the Bomberman experience and jeopardising their important first impressions.
  
-I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so they weren't left clueless during gameplay. Although the current menu system is less user-friendly, player satisfaction has seen a positive increase.
+I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so they weren't left clueless during gameplay. This compromise has resulted in a less user-friendly system, but I do feel that the sacrifice was necessary as player satisfaction has since seen a positive increase.
 
 // PLAY Option Image
 
