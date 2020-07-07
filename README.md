@@ -79,13 +79,10 @@ After the game ends by means of a win, loss, draw, or time out, all of the playe
 // Photo Session Image
 
 
-### Final State
-// Thanks for playing
+### Ending
+The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be weighed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the host's discretion to replay the level should they wish to simulate this experience.
 
-
-### Omitted Features
-Rounds, Pressure Blocks, Bomb Kick, Bomb Throw, Bomb Punch, Penetration Bomb
-(may be merged into Final State)
+// Ty screen
 
 
 ## Authors
