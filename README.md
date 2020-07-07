@@ -21,7 +21,7 @@ The following sections will detail the design and mechanisms of the numerous scr
 
 ### TITLE Menu
 <image src = images/01-title.png>
- 
+
 This menu is the first thing the player sees upon entering the game. In the LittleBigPlanet series of games, players have the ability to customise the appearance of their avatars. Within this menu are four sleeping default avatars who will wake and be replaced by the custom avatars of players whose profiles are loaded into the game. Active avatars are backlit by a predetermined colour which assigns an identifier that is later used during the main gameplay section of the game.
 
 The menu is also populated with a menu title header, a level title header, and the option to either jump to the SETTINGS menu or the CONTROLS menu by using the displayed button prompt. All menus are solely controlled by the player who takes the position of the left-most avatar, a position which is assigned to the first profile that loads into the game.
@@ -29,60 +29,60 @@ The menu is also populated with a menu title header, a level title header, and t
 
 ### CONTROLS Menu
 <image src = images/02-controls.png>
- 
+
 This menu simply displays an interface which communicates the button mapping for the main gameplay section of the game. As the player moves through these menus, the positioning of the menu title header will shift either right or left to signify a forward or backward movement in menu progression.
 
 This menu previously featured additional button inputs that allowed for a more experimental style of play where the effects of special bombs could be chained together. After receiving user complaints for overcomplicating the control scheme of what is supposed to be a relatively simple game, these commands have since been compressed into a single input which faithfully only permits the use of one type of special bomb at any given time.
 
 
 ### INFORMATION Menu
+<image src = images/03-information.png>
+
 This menu holds the bulk of information used to inform the player of the various objects that they may encounter during the main gameplay section of the game. The L1 and R1 buttons are used to toggle left and right between the objects presented to view a brief description of their functionality.
 
 The object descriptions were initially very detailed averaging at around four lines each, yet they are now limited to only display a maximum of two. This reduction of clarity is a result of analysing player behaviours during the beta testing stages of the game. Players found that they would be helpless during gameplay despite having read through the object descriptions as the information presented was too profuse to be absorbed.
 
-<image src = images/03-information.png>
-
 
 ### SETTINGS Menu
+<image src = images/04-settings.png>
+
 This menu holds a variety of customisation options which affect the initial state of the main gameplay to encourage replayability. To maintain consistency with the control scheme of the other menus, L1 and R1 can be used to toggle left and right between the options of the settings. The Left Stick Up and Left Stick Down commands can also be used to toggle up and down between the different settings themselves. The button mapping for this functionality is not displayed as it is a natural instinct for users of the LBP2 community.
 
 The leftmost column represents a setting's default value whereas the rightmost column is its maximum. All of these settings are self-explanatory save for CAMERA which increasingly reduces the number of visible objects during the main gameplay to optimise the running performance of the game. The decision to use MAX over the real values of the maximum settings was done to favour consistency over the need to display a fixed arbitrary value.
 
-<image src = images/04-settings.png>
-
 
 ### PLAY
+<image src = images/05-play.png>
+
 A new PLAY button prompt will appear on the TITLE menu after all of the other menus have been visited. It is accompanied by some information which informs the players of a hidden quick-start feature that promotes replayability. The PLAY function transports the players away from the menu system and into the game arena where the main gameplay takes place.
 
 In the earlier stages of development, the player could freely select between all of the different menus from the first screen of the level and this included the PLAY function itself. Unfortunately, this liberty resulted in naive newcomers haphazardly jumping straight into the main gameplay of the game with little to no clue on how to actually play. This robbed them of their enjoyment and jeopardised their very crucial first impressions, effectively sabotaging their own experience.
  
 I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so that they were not left to be so clueless by the time they entered the game arena. This compromise has ultimately resulted in a less user-friendly system that benefits from a healthy increase in player satisfaction.
 
-<image src = images/05-play.png>
-
 
 ### Gameplay (Single-player)
-This screen shows the initial game state of the game arena. To the left is the player HUD and to the right is the Power-UP Key. As the level has been designed with newcomers to the Bomberman formula in mind, these two components have been implemented to aid the player during gameplay. When playing alone, an information message exclusive to the single-player mode is activated to notify unwary players that the level has been designed to be enjoyed as a multiplayer experience.
-
 <image src = images/06-gameplay-single.png>
+
+This screen shows the initial game state of the game arena. To the left is the player HUD and to the right is the Power-UP Key. As the level has been designed with newcomers to the Bomberman formula in mind, these two components have been implemented to aid the player during gameplay. When playing alone, an information message exclusive to the single-player mode is activated to notify unwary players that the level has been designed to be enjoyed as a multiplayer experience.
 
 
 ### Gameplay (Multiplayer)
-Players have two minutes to complete their objective: to blow up the other players and survive to win as the last player standing. Players will drop bombs in an effort to remove the soft blocks that obstruct their paths between one another. In doing so, they will discover power-ups which they can pick up to strengthen their ability to survive. If two or more players are alive after the allotted two minutes have passed, the game is declared to be a draw and the alive players share the victory together.
-
 <image src = images/07-gameplay-multi.png>
+
+Players have two minutes to complete their objective: to blow up the other players and survive to win as the last player standing. Players will drop bombs in an effort to remove the soft blocks that obstruct their paths between one another. In doing so, they will discover power-ups which they can pick up to strengthen their ability to survive. If two or more players are alive after the allotted two minutes have passed, the game is declared to be a draw and the alive players share the victory together.
 
 
 ### Photo Session (Optional)
-After the game ends by means of a win, loss, draw, or time out, all of the players are transported to this screen where they have a few seconds to change their avatar's built-in expression and pose for a quick photo session. This section is completely irrelevant to the game and is catered to that of the LBP2 community itself. LBP2 allows for players to upload in-game photos to their profiles as a means of sharing their experiences. Uploaded photos do not provide information for where the picture was taken when viewed in-game so the level title has been provided for a reference to help share the level. This section is optional and can be freely skipped by the winner(s) of the game without penalty.
-
 <image src = images/08-photo.png>
+
+After the game ends by means of a win, loss, draw, or time out, all of the players are transported to this screen where they have a few seconds to change their avatar's built-in expression and pose for a quick photo session. This section is completely irrelevant to the game and is catered to that of the LBP2 community itself. LBP2 allows for players to upload in-game photos to their profiles as a means of sharing their experiences. Uploaded photos do not provide information for where the picture was taken when viewed in-game so the level title has been provided for a reference to help share the level. This section is optional and can be freely skipped by the winner(s) of the game without penalty.
 
 
 ### Ending
-The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be weighed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the host's discretion to replay the level should they wish to simulate this experience.
-
 <image src = images/09-ending.png>
+
+The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be weighed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the host's discretion to replay the level should they wish to simulate this experience.
 
 
 ## Authors
