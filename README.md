@@ -24,7 +24,7 @@ This menu is the first thing the player sees upon entering the game. In the Litt
 
 The menu is also populated with a menu title header, a level title header, and the option to either jump to the SETTINGS menu or the CONTROLS menu by using the displayed button prompt. All menus are solely controlled by the player who takes the position of the left-most avatar, a position which is assigned to the first profile that loads into the game.
 
-//TITLE Menu Image
+<image src = images/01-title.png>
 
 
 ### CONTROLS Menu
@@ -32,7 +32,7 @@ This menu simply displays an interface which communicates the button mapping for
 
 This menu previously featured additional button inputs that allowed for a more experimental style of play where the effects of special bombs could be chained together. After receiving user complaints for overcomplicating the control scheme of what is supposed to be a relatively simple game, these commands have since been compressed into a single input which faithfully only permits the use of one type of special bomb at any given time.
 
-//CONTROLS Menu Image
+<image src = images/02-controls.png>
 
 
 ### INFORMATION Menu
@@ -40,7 +40,7 @@ This menu holds the bulk of information used to inform the player of the various
 
 The object descriptions were initially very detailed averaging at around four lines each, yet they now only display a maximum of two. This reduction of clarity is a result of analysing player behaviours during the beta testing stages of the game. Players found that they would be helpless during gameplay despite having read through the object descriptions as the information presented was too profuse to be absorbed.
 
-//INSTRUCTIONS Menu Image
+<image src = images/03-information.png>
 
 
 ### SETTINGS Menu
@@ -48,7 +48,7 @@ This menu holds a variety of customisation options which affect the initial stat
 
 The leftmost column represents a setting's default value whereas the rightmost column is its maximum. All of these settings are self-explanatory save for CAMERA which increasingly reduces the number of visible objects during the main gameplay to optimise the running performance of the game. The decision to use MAX over the real values of the maximum settings was done to favour consistency over the need to display a fixed arbitrary value.
 
-//SETTINGS Menu Image
+<image src = images/04-settings.png>
 
 
 ### PLAY
@@ -58,31 +58,31 @@ In the earlier stages of development, the player could freely select between all
  
 I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so that they were not left to be so clueless by the time they entered the game arena. This compromise has ultimately resulted in a less user-friendly system that benefits from a healthy increase in player satisfaction.
 
-// PLAY Option Image
+<image src = images/05-play.png>
 
 
 ### Gameplay (Single-player)
 This screen shows the initial game state of the game arena. To the left is the player HUD and to the right is the Power-UP Key. As the level has been designed with newcomers to the Bomberman formula in mind, these two components have been implemented to aid the player during gameplay. When playing alone, an information message exclusive to the single-player mode is activated to notify unwary players that the level has been designed to be enjoyed as a multiplayer experience.
 
-// Single-player Information Message Image
+<image src = images/06-gameplay-single.png>
 
 
 ### Gameplay (Multiplayer)
 Players have two minutes to complete their objective: to blow up the other players and survive to win as the last player standing. Players will drop bombs in an effort to remove the soft blocks that obstruct their paths between one another. In doing so, they will discover power-ups which they can pick up to strengthen their ability to survive. If two or more players are alive after the allotted two minutes have passed, the game is declared to be a draw and the alive players share the victory together.
 
-// Multiplayer Frame Image
+<image src = images/07-gameplay-multi.png>
 
 
 ### Photo Session (Optional)
 After the game ends by means of a win, loss, draw, or time out, all of the players are transported to this screen where they have a few seconds to change their avatar's built-in expression and pose for a quick photo session. This section is completely irrelevant to the game and is catered to that of the LBP2 community itself. LBP2 allows for players to upload in-game photos to their profiles as a means of sharing their experiences. Uploaded photos do not provide information for where the picture was taken when viewed in-game so the level title has been provided for a reference to help share the level. This section is optional and can be freely skipped by the winner(s) of the game without penalty.
 
-// Photo Session Image
+<image src = images/08-photo.png>
 
 
 ### Ending
 The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be weighed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the host's discretion to replay the level should they wish to simulate this experience.
 
-// Ty screen
+<image src = images/09-ending.png>
 
 
 ## Authors
