@@ -35,7 +35,7 @@ This menu previously featured additional button inputs that allowed for a more e
 //CONTROLS Menu Image
 
 
-### INSTRUCTIONS Menu
+### INFORMATION Menu
 This menu holds the bulk of information used to inform the player of the various objects that they may encounter during the main gameplay section of the game. The L1 and R1 buttons are used to toggle left and right between the objects presented to view a brief description of their functionality.
 
 The object descriptions were initially very detailed averaging at around four lines each, yet they now only display a maximum of two. This reduction of clarity is a result of analysing player behaviours during the beta testing stages of the game. Players found that they would be helpless during gameplay despite having read through the object descriptions as the information presented was too profuse to be absorbed.
