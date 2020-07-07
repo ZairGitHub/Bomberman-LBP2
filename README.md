@@ -76,13 +76,13 @@ Players have two minutes to complete their objective: to blow up the other playe
 ### Photo Session (Optional)
 <image src = images/08-photo.png>
 
-After the game ends by means of a win, loss, draw, or time out, all of the players are transported to this screen where they have a few seconds to change their avatar's built-in expression and pose for a quick photo session. This section is completely irrelevant to the game and is catered to that of the LBP2 community itself. LBP2 allows for players to upload in-game photos to their profiles as a means of sharing their experiences. Uploaded photos do not provide information for where the picture was taken when viewed in-game so the level title has been provided for a reference to help share the level. This section is optional and can be freely skipped by the winner(s) of the game without penalty.
+After the game ends by means of a win, loss, draw, or time out, all of the players are transported to this screen where they have a few seconds to change their avatar's built-in expression and pose for a quick photo session. This section is completely irrelevant to the game and is catered to that of the LBP2 community itself. LBP2 allows for players to upload in-game photos to their profiles as a means of sharing their experiences. Uploaded photos do not provide information for where the picture was taken when viewed in-game, so the level title has been provided for a reference to help share the level. This section is optional and can be freely skipped by the winner(s) of the game without penalty.
 
 
 ### Ending
 <image src = images/09-ending.png>
 
-The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be weighed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the host's discretion to replay the level should they wish to simulate this experience.
+The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be assessed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the host's discretion to replay the level should they wish to simulate this experience.
 
 
 ## Authors
