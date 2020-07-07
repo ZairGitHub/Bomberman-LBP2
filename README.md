@@ -3,7 +3,7 @@ Repository designed to showcase Bomberman LBP2, a personal project undertaken in
 
 
 ## Getting Started
-A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/PlayStation_3) and a copy of [Media Molecule's LittleBigPlanet 2 (LBP2) video game](https://en.wikipedia.org/wiki/LittleBigPlanet_2) are required to play the game. First-time LBP2 users will need to progress through the first world of the **Story** section to unlock the required **Community** section. From the **Community** section, select **Text Search** and either search for **Bomberman LBP2** (the level title) or **XZairX** (the PlayStation Network ID of myself, the level author). The former will return a large set results pertaining to user-generated Bomberman levels whereas the latter will only return levels published by the author that was searched against. Simply navigate through the results until the Bomberman LBP2 level is located, select it, and the level encasing the game will start.
+A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/PlayStation_3) and a copy of [Media Molecule's LittleBigPlanet 2 (LBP2) video game](https://en.wikipedia.org/wiki/LittleBigPlanet_2) are required to play the game. First-time LBP2 users will need to progress through the first world of the **Story** section to unlock the required **Community** section. From the **Community** section, select **Text Search** and either search for **Bomberman LBP2** (the level title) or **XZairX** (the PlayStation Network ID of myself, the level author). The former will return a large set results pertaining to user-generated Bomberman levels whereas the latter will only return the author's published levels. Simply navigate through the results until the Bomberman LBP2 level is located, select it, and the level encasing the game will start.
 
 
 ### Prerequisites
@@ -12,7 +12,7 @@ A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/Pl
 
 
 ## Level Showcase
-The following sections will detail the design and mechanisms of the numerous screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions taken to improve the game after gathering player feedback.
+The following sections will detail the design and mechanisms of the numerous screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions taken to improve the game after garnering player feedback.
 
 
 ### Video Demonstration
@@ -36,7 +36,7 @@ This menu previously featured additional button inputs that allowed for a more e
 
 
 ### INSTRUCTIONS Menu
-This menu holds the bulk of information used to inform the player of the various objects that they may encounter during the main gameplay. The L1 and R1 buttons are used to toggle left and right between the objects presented to view a brief description of their functionality.
+This menu holds the bulk of information used to inform the player of the various objects that they may encounter during the main gameplay section of the game. The L1 and R1 buttons are used to toggle left and right between the objects presented to view a brief description of their functionality.
 
 The object descriptions were initially very detailed averaging at around four lines each, yet they now only display a maximum of two. This reduction of clarity is a result of analysing player behaviours during the beta testing stages of the game. Players found that they would be helpless during gameplay despite having read through the object descriptions as the information presented was too profuse to be absorbed.
 
@@ -68,7 +68,7 @@ This screen shows the initial game state of the game arena. To the left is the p
 
 
 ### Gameplay (Multiplayer)
-Players have two minutes to complete their objective: to blow up the other players and survive to win as the last player standing. Players will drop bombs in an effort to remove the soft blocks that obstruct their paths between one another. In doing so, they will discover power-ups which they can pick up to strengthen their ability to survive. If two or more players are alive after the alloted two minutes have passed, the game is declared to be a draw and the alive players share the victory together.
+Players have two minutes to complete their objective: to blow up the other players and survive to win as the last player standing. Players will drop bombs in an effort to remove the soft blocks that obstruct their paths between one another. In doing so, they will discover power-ups which they can pick up to strengthen their ability to survive. If two or more players are alive after the allotted two minutes have passed, the game is declared to be a draw and the alive players share the victory together.
 
 // Multiplayer Frame Image
 
