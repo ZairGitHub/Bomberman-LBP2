@@ -20,7 +20,7 @@ The following sections will detail the design and mechanisms of the numerous scr
 
 
 ### TITLE Menu
-<image src = images/01-title.png>
+<image src = images/01-title-multi.png>
 
 This menu is the first thing the player sees upon entering the game. In the LittleBigPlanet series of games, players have the ability to customise the appearance of their avatars. Within this menu are four sleeping default avatars who will wake and be replaced by the custom avatars of players whose profiles are loaded into the game. Active avatars are backlit by a predetermined colour which assigns an identifier that is later used during the main gameplay section of the game.
 
@@ -52,7 +52,7 @@ The leftmost column represents a setting's default value whereas the rightmost c
 
 
 ### PLAY
-<image src = images/05-play.png>
+<image src = images/05-play-multi.png>
 
 A new PLAY button prompt will appear on the TITLE menu after all of the other menus have been visited. It is accompanied by some information which informs the players of a hidden quick-start feature that promotes replayability. The PLAY function transports the players away from the menu system and into the game arena where the main gameplay takes place.
 
@@ -74,7 +74,7 @@ Players have two minutes to complete their objective: to blow up the other playe
 
 
 ### Photo Session (Optional)
-<image src = images/08-photo.png>
+<image src = images/08-photo-multi.png>
 
 After the game ends by means of a win, loss, draw, or time out, all of the players are transported to this screen where they have a few seconds to change their avatar's built-in expression and pose for a quick photo session. This section is completely irrelevant to the game and is catered to that of the LBP2 community itself. LBP2 allows for players to upload in-game photos to their profiles as a means of sharing their experiences. Uploaded photos do not provide information for where the picture was taken when viewed in-game, so the level title has been provided for a reference to help share the level. This section is optional and can be freely skipped by the winner(s) of the game without penalty.
 
@@ -82,7 +82,7 @@ After the game ends by means of a win, loss, draw, or time out, all of the playe
 ### Ending
 <image src = images/09-ending.png>
 
-The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be assessed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the host's discretion to replay the level should they wish to simulate this experience.
+The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be assessed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the discretion of the host to replay the level should they wish to simulate this experience.
 
 
 ## Authors
