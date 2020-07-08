@@ -16,7 +16,7 @@ The following sections will detail the design and mechanisms of the numerous scr
 
 
 ### Video Demonstration
-// Potential video demonstration
+(Potentially coming soon)
 
 
 ### TITLE Menu
