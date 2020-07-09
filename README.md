@@ -11,7 +11,7 @@ A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/Pl
 * LittleBigPlanet 2 video game
 
 
-## Level Showcase
+## Project Showcase
 The following sections will detail the design and mechanisms of the numerous screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions taken to improve the game after garnering player feedback.
 
 
