@@ -32,7 +32,7 @@ The menu is also populated with a menu title header, a level title header, and t
 
 This menu simply displays an interface which communicates the button mapping for the main gameplay section of the game. As the player moves through these menus, the positioning of the menu title header will shift either right or left to signify a forward or backward movement in menu progression.
 
-This menu previously featured additional button inputs that allowed for a more experimental style of play where the effects of special bombs could be chained together. After receiving user complaints for overcomplicating the control scheme of what is supposed to be a relatively simple game, these commands have since been compressed into a single input which faithfully only permits the use of one type of special bomb at any given time.
+This menu previously featured additional button inputs that allowed for a more experimental style of play where the effects of special bombs could be chained together. After receiving user complaints for overcomplicating the control scheme of what is supposed to be a relatively simple game, these commands have since been compressed into a single input. This compressed command faithfully restricts the use of special bombs so that only one type can be used at any given time.
 
 
 ### INFORMATION Menu
@@ -40,7 +40,7 @@ This menu previously featured additional button inputs that allowed for a more e
 
 This menu holds the bulk of information used to inform the player of the various objects that they may encounter during the main gameplay section of the game. The L1 and R1 buttons are used to toggle left and right between the objects presented to view a brief description of their functionality.
 
-The object descriptions were initially very detailed averaging at around four lines each, yet they are now limited to only display a maximum of two. This reduction of clarity is a result of analysing player behaviours during the beta testing stages of the game. Players found that they would be helpless during gameplay despite having read through the object descriptions as the information presented was too profuse to be absorbed.
+The object descriptions were initially very detailed averaging at around four lines each, yet they are now limited to only display a maximum of two. This reduction of clarity is a result of analysing player behaviours during the beta testing stages of the game. Players found that they would be helpless during gameplay despite having read through these descriptions as the information presented was too profuse to be absorbed.
 
 
 ### SETTINGS Menu
@@ -70,13 +70,13 @@ This screen shows the initial game state of the game arena. To the left is the p
 ### Gameplay (Multiplayer)
 <image src = images/07-gameplay-multi.png>
 
-Players have two minutes to complete their objective: to blow up the other players and survive to win as the last player standing. Players will drop bombs in an effort to remove the soft blocks that obstruct their paths between one another. In doing so, they will discover power-ups which they can pick up to strengthen their ability to survive. If two or more players are alive after the allotted two minutes have passed, the game is declared to be a draw and the alive players share the victory together.
+Players have two minutes to complete their objective: to blow up the other players and survive to win as the last player standing. Players will drop bombs in an effort to remove the soft blocks that obstruct their paths between one another. In doing so, they will discover power-ups which they can pick up to strengthen their capabilities and their odds at survival. If two or more players are alive after the allotted two minutes have passed, the game is declared to be a draw and the alive players share the victory together.
 
 
 ### Photo Session (Optional)
 <image src = images/08-photo-multi.png>
 
-After the game ends by means of a win, loss, draw, or time out, all of the players are transported to this screen where they have a few seconds to change their avatar's built-in expression and pose for a quick photo session. This section is completely irrelevant to the game and is catered to that of the LBP2 community itself. LBP2 allows for players to upload in-game photos to their profiles as a means of sharing their experiences. Uploaded photos do not provide information for where the picture was taken when viewed in-game, so the level title has been provided for a reference to help share the level. This section is optional and can be freely skipped by the winner(s) of the game without penalty.
+After the game ends by means of a win, loss, draw, or time out, all of the players are transported to this screen where they have a few seconds to modify their avatar's built-in expression and pose for a quick photo session. This section is completely irrelevant to the game and is catered to that of the LBP2 community itself. LBP2 allows for players to upload in-game photos to their profiles as a means of sharing their experiences. Uploaded photos do not provide information for where the picture was taken when viewed in-game, so the level title has been provided for a reference to help share the level. This section is optional and can be freely skipped by the winner(s) of the game without penalty.
 
 
 ### Ending
