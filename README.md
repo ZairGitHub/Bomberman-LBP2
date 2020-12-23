@@ -24,7 +24,7 @@ The following sections will detail the design and mechanisms of the numerous scr
 
 This menu is the first thing the player sees upon entering the game. In the LittleBigPlanet series of games, players have the ability to customise the appearance of their avatars. Within this menu are four sleeping default avatars who will wake and be replaced by the custom avatars of players whose profiles are loaded into the game. Active avatars are backlit by a predetermined colour which assigns an identifier that is later used during the main gameplay section of the game.
 
-The menu is also populated with a menu title header, a level title header, and the option to either jump to the SETTINGS menu or the CONTROLS menu by using the displayed button prompt. All menus are solely controlled by the player who takes the position of the left-most avatar, a position which is assigned to the first profile that loads into the game.
+The menu is also populated with a menu title header, a level title header, and the option to either jump to the `SETTINGS` menu or the `CONTROLS` menu by using the displayed button prompt. All menus are solely controlled by the player who takes the position of the left-most avatar, a position which is assigned to the first profile that loads into the game.
 
 
 ### CONTROLS Menu
@@ -38,7 +38,7 @@ This menu previously featured additional button inputs that allowed for a more e
 ### INFORMATION Menu
 <image src = images/03-information.png>
 
-This menu holds the bulk of information used to inform the player of the various objects that they may encounter during the main gameplay section of the game. The L1 and R1 buttons are used to toggle left and right between the objects presented to view a brief description of their functionality.
+This menu holds the bulk of information used to inform the player of the various objects that they may encounter during the main gameplay section of the game. The `L1` and `R1` buttons are used to toggle left and right between the objects presented to view a brief description of their functionality.
 
 The object descriptions were initially very detailed averaging at around four lines each, yet they are now limited to only display a maximum of two. This reduction of clarity is a result of analysing player behaviours during the beta testing stages of the game. Players found that they would be helpless during gameplay, despite having read through these descriptions, as the information presented was far too profuse to be absorbed.
 
@@ -46,15 +46,15 @@ The object descriptions were initially very detailed averaging at around four li
 ### SETTINGS Menu
 <image src = images/04-settings.png>
 
-This menu holds a variety of customisation options which affect the initial state of the main gameplay to encourage replayability. To maintain consistency with the control scheme of the other menus, L1 and R1 can be used to toggle left and right between the options of the settings. The Left Stick Up and Left Stick Down commands can also be used to toggle up and down between the different settings themselves. The button mapping for this functionality is not displayed as it is a natural instinct for users of the LBP2 community.
+This menu holds a variety of customisation options which affect the initial state of the main gameplay to encourage replayability. To maintain consistency with the control scheme of the other menus, `L1` and `R1` can be used to toggle left and right between the options of the settings. The `Left Stick Up` and `Left Stick Down` commands can also be used to toggle up and down between the different settings themselves. The button mapping for this functionality is not displayed as it is a natural instinct for users of the LBP2 community.
 
-The leftmost column represents a setting's default value whereas the rightmost column is its maximum. All of these settings are self-explanatory save for CAMERA which increasingly reduces the number of visible objects during the main gameplay to optimise the running performance of the game. The decision to use MAX over the real values of the maximum settings was done to favour consistency over the need to display a fixed arbitrary value.
+The leftmost column represents a setting's default value whereas the rightmost column is its maximum. All of these settings are self-explanatory save for `CAMERA` which increasingly reduces the number of visible objects during the main gameplay to optimise the running performance of the game. The decision to use `MAX` over the real values of the maximum settings was done to favour consistency over the need to display a fixed arbitrary value.
 
 
 ### PLAY
 <image src = images/05-play-multi.png>
 
-A new PLAY button prompt will appear on the TITLE menu after all of the other menus have been visited. It is accompanied by some information which informs the players of a hidden quick-start feature that promotes replayability. The PLAY function transports the players away from the menu system and into the game arena where the main gameplay takes place.
+A new `PLAY` button prompt will appear on the `TITLE` menu after all of the other menus have been visited. It is accompanied by some information which informs the players of a hidden quick-start feature that promotes replayability. The `PLAY` function transports the players away from the menu system and into the game arena where the main gameplay takes place.
 
 In the earlier stages of development, the player could freely select between all of the different menus from the first screen of the level and this included the PLAY function itself. Unfortunately, this liberty resulted in naive newcomers haphazardly jumping straight into the main gameplay of the game with little to no clue on how to actually play. This robbed them of their enjoyment and jeopardised their very crucial first impressions, effectively sabotaging their own experience.
  
@@ -86,11 +86,10 @@ The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen befor
 
 
 ## Authors
-* Riaz Philippe - University of Essex BSc Computer Games Graduate
+* Riaz Philippe - BSc Computer Games Graduate
 
 
 ## References
 * [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
 * [LittleBigPlanet 2](https://en.wikipedia.org/wiki/LittleBigPlanet_2)
 * [Bomberman LBP2 Level Link](https://lbp.me/v/q3q01np)
-
