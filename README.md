@@ -49,7 +49,7 @@ A new `PLAY` button prompt will appear on the `TITLE` menu after all of the othe
 
 *In the earlier stages of development, the player could freely select between all of the different menus from the first screen of the level and this included the `PLAY` function itself. Unfortunately, this liberty resulted in naive newcomers haphazardly jumping straight into the main gameplay of the game with little to no clue on how to actually play. This robbed them of their enjoyment and jeopardised their very crucial first impressions, effectively sabotaging their own experience.*
  
->I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so that they were not left to be so clueless by the time they entered the game arena. This compromise has ultimately resulted in a less user-friendly system that benefits from a healthy increase in player satisfaction.
+*I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so that they were not left to be so clueless by the time they entered the game arena. This compromise has ultimately resulted in a less user-friendly system that benefits from a healthy increase in player satisfaction.*
 
 ### Gameplay (Single-player)
 <image src = images/06-gameplay-single.png>
