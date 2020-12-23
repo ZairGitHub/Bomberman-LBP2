@@ -17,7 +17,7 @@ The following sections will detail the design and mechanisms of the numerous scr
 ### TITLE Menu
 <image src = images/01-title-multi.png>
 
-This menu is the first thing the player sees upon entering the game. In the LittleBigPlanet series of games, players have the ability to customise the appearance of their avatars. Within this menu are four sleeping default avatars who will wake and be replaced by the custom avatars of players whose profiles are loaded into the game. Active avatars are backlit by a predetermined colour which acts as a unique identifier that is later used during the main gameplay section of the game.
+This menu is the first thing the player sees upon entering the game. In the LittleBigPlanet series of games, players have the ability to customise the appearance of their avatars. Within this menu are four sleeping default avatars who will wake and be replaced by the custom avatars of players whose profiles are loaded into the game. Active avatars are backlit by a predetermined colour which act as a unique identifier that is later used during the main gameplay section of the game.
 
 The menu is also populated with a menu title header, a level title header, and the option to either jump to the `SETTINGS` menu or the `CONTROLS` menu by using the displayed button prompt. All menus are solely controlled by the player who takes the position of the left-most avatar, a position which is assigned to the first profile that loads into the game.
 
