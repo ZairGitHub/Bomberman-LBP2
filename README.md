@@ -9,7 +9,7 @@ A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/Pl
 * LittleBigPlanet 2 video game
 
 ## Project Showcase
-The following sections will detail the design and mechanisms of the numerous screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions that were taken to improve the game after garnering player feedback.
+The following sections will detail the design and mechanisms of the numerous screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions that were taken to improve the game after garnering player feedback. Any information relating to the design history of the product has been provided in *italics* to clearly seperate it from the main description bodies of the project showcase.
 
 ### Video Demonstration
 (Potentially coming soon)
@@ -26,14 +26,14 @@ The menu is also populated with a menu title header, a level title header, and t
 
 This menu simply displays an interface which communicates the button mapping for the main gameplay section of the game. As the player moves through these menus, the positioning of the menu title header will shift either right or left to signify a forward or backward movement in menu progression.
 
-This menu previously featured additional button inputs that allowed for a more experimental style of play where the effects of special bombs could be chained together. After receiving user complaints for overcomplicating the control scheme of what is supposed to be a relatively simple game, these commands have since been compressed into a single input. This compressed command faithfully restricts the use of special bombs so that only one type can be used at any given time.
+*This menu previously featured additional button inputs that allowed for a more experimental style of play where the effects of special bombs could be chained together. After receiving user complaints for overcomplicating the control scheme of what is supposed to be a relatively simple game, these commands have since been compressed into a single input. This compressed command faithfully restricts the use of special bombs so that only one type can be used at any given time.*
 
 ### INFORMATION Menu
 <image src = images/03-information.png>
 
 This menu holds the bulk of information used to inform the player of the various objects that they may encounter during the main gameplay section of the game. The `L1` and `R1` buttons are used to toggle left and right between the objects presented to view a brief description of their functionality.
 
-The object descriptions were initially very detailed averaging at around four lines each, yet they are now limited to only display a maximum of two. This reduction of clarity is a result of analysing player behaviours during the beta testing stages of the game. Players found that they would be helpless during gameplay, despite having read through these descriptions, as the information presented was far too profuse to be absorbed.
+*The object descriptions were initially very detailed averaging at around four lines each, yet they are now limited to only display a maximum of two. This reduction of clarity is a result of analysing player behaviours during the beta testing stages of the game. Players found that they would be helpless during gameplay, despite having read through these descriptions, as the information presented was far too profuse to be absorbed.*
 
 ### SETTINGS Menu
 <image src = images/04-settings.png>
@@ -47,9 +47,9 @@ The leftmost column represents a setting's default value whereas the rightmost c
 
 A new `PLAY` button prompt will appear on the `TITLE` menu after all of the other menus have been visited. It is accompanied by some information which informs the players of a hidden quick-start feature that promotes replayability. The `PLAY` function transports the players away from the menu system and into the game arena where the main gameplay takes place.
 
-In the earlier stages of development, the player could freely select between all of the different menus from the first screen of the level and this included the `PLAY` function itself. Unfortunately, this liberty resulted in naive newcomers haphazardly jumping straight into the main gameplay of the game with little to no clue on how to actually play. This robbed them of their enjoyment and jeopardised their very crucial first impressions, effectively sabotaging their own experience.
+*In the earlier stages of development, the player could freely select between all of the different menus from the first screen of the level and this included the `PLAY` function itself. Unfortunately, this liberty resulted in naive newcomers haphazardly jumping straight into the main gameplay of the game with little to no clue on how to actually play. This robbed them of their enjoyment and jeopardised their very crucial first impressions, effectively sabotaging their own experience.
  
-I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so that they were not left to be so clueless by the time they entered the game arena. This compromise has ultimately resulted in a less user-friendly system that benefits from a healthy increase in player satisfaction.
+>I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so that they were not left to be so clueless by the time they entered the game arena. This compromise has ultimately resulted in a less user-friendly system that benefits from a healthy increase in player satisfaction.
 
 ### Gameplay (Single-player)
 <image src = images/06-gameplay-single.png>
