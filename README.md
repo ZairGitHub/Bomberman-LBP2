@@ -40,7 +40,7 @@ This menu holds the bulk of information used to inform the player of the various
 
 This menu aims to increase replayability by providing a variety of customisation options which affect the initial state of the main gameplay section of the game. To maintain consistency with the control scheme of the other menus, `L1` and `R1` can be used to toggle left and right between the options of the settings. The `Left Stick Up` and `Left Stick Down` commands can also be used to toggle up and down between the different settings themselves. The button mapping for this functionality is not displayed as it is a natural instinct for users of the LBP2 community.
 
-The leftmost column represents a setting's default value whereas the rightmost column is its maximum. All of these settings are self-explanatory save for `CAMERA` which increasingly reduces the number of visible objects during the main gameplay to optimise the running performance of the game. The decision to use `MAX` over the real values of the maximum settings was done to favour consistency over the need to display a fixed arbitrary value.
+The leftmost column represents a setting's default value whereas the rightmost column is its maximum. All of these settings are self-explanatory save for `CAMERA` which increasingly reduces the number of visible objects during the main gameplay section to optimise the running performance of the game. The decision to use `MAX` over the real values of the maximum settings was done to favour consistency over the need to display a fixed arbitrary value.
 
 ### PLAY
 <image src = images/05-play-multi.png>
