@@ -4,11 +4,9 @@ Repository designed to showcase Bomberman LBP2, a personal project undertaken in
 ## Getting Started
 A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/PlayStation_3) and a copy of [Media Molecule's LittleBigPlanet 2 (LBP2) video game](https://en.wikipedia.org/wiki/LittleBigPlanet_2) are required to play the game. First-time LBP2 users will need to progress through the first world of the **Story** section to unlock the required **Community** section. From the **Community** section, select **Text Search** and either search for **Bomberman LBP2** (the level title) or **XZairX** (the PlayStation Network ID of myself, the level author). The former will return a large set results pertaining to user-generated Bomberman levels whereas the latter will only return the author's published levels. Simply navigate through the results until the Bomberman LBP2 level is located, select it, and the level encasing the game will start.
 
-
 ### Prerequisites
 * Sony PlayStation 3 video game console
 * LittleBigPlanet 2 video game
-
 
 ## Project Showcase
 The following sections will detail the design and mechanisms of the numerous screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions taken to improve the game after garnering player feedback.
