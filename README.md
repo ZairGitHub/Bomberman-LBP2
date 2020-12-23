@@ -9,7 +9,7 @@ A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/Pl
 * LittleBigPlanet 2 video game
 
 ## Project Showcase
-The following sections will detail the design and mechanisms of the numerous screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions taken to improve the game after garnering player feedback.
+The following sections will detail the design and mechanisms of the numerous screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions that were taken to improve the game after garnering player feedback.
 
 ### Video Demonstration
 (Potentially coming soon)
@@ -47,7 +47,7 @@ The leftmost column represents a setting's default value whereas the rightmost c
 
 A new `PLAY` button prompt will appear on the `TITLE` menu after all of the other menus have been visited. It is accompanied by some information which informs the players of a hidden quick-start feature that promotes replayability. The `PLAY` function transports the players away from the menu system and into the game arena where the main gameplay takes place.
 
-In the earlier stages of development, the player could freely select between all of the different menus from the first screen of the level and this included the PLAY function itself. Unfortunately, this liberty resulted in naive newcomers haphazardly jumping straight into the main gameplay of the game with little to no clue on how to actually play. This robbed them of their enjoyment and jeopardised their very crucial first impressions, effectively sabotaging their own experience.
+In the earlier stages of development, the player could freely select between all of the different menus from the first screen of the level and this included the `PLAY` function itself. Unfortunately, this liberty resulted in naive newcomers haphazardly jumping straight into the main gameplay of the game with little to no clue on how to actually play. This robbed them of their enjoyment and jeopardised their very crucial first impressions, effectively sabotaging their own experience.
  
 I aimed to redesign the menu system in a way that allowed for the game to be started as quick as possible for veterans and testing purposes, yet it also had to strike a balance that would encourage newcomers to explore the menus so that they were not left to be so clueless by the time they entered the game arena. This compromise has ultimately resulted in a less user-friendly system that benefits from a healthy increase in player satisfaction.
 
