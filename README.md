@@ -1,5 +1,5 @@
 # Bomberman LBP2
-Repository designed to showcase Bomberman LBP2, a personal project undertaken in my own free time where I took it upon myself to explore the design philosophy of the Bomberman series and to learn about the practices of independent game development. The game is finished and fully functional, yet several planned features have been forcibly omitted as the game engine suffers from serious memory constraint issues.
+Repository designed to showcase [Bomberman LBP2](https://lbp.me/v/q3q01np), a personal project undertaken in my own free time where I took it upon myself to explore the design philosophy of the Bomberman series and to learn about the practices of independent game development. The game is finished and fully functional, yet several planned features have been forcibly omitted as the game engine suffers from serious memory constraint issues.
 
 ## Getting Started
 A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/PlayStation_3) and a copy of [Media Molecule's LittleBigPlanet 2 (LBP2) video game](https://en.wikipedia.org/wiki/LittleBigPlanet_2) are required to play the game. First-time LBP2 users will need to progress through the first world of the **Story** section to unlock the required **Community** section. From the **Community** section, select **Text Search** and either search for **Bomberman LBP2** (the level title) or **XZairX** (the PlayStation Network ID of myself, the level author). The former will return a large set results pertaining to user-generated Bomberman levels whereas the latter will only return the author's published levels. Simply navigate through the results until the Bomberman LBP2 level is located, select it, and the level encasing the game will start.
@@ -75,6 +75,6 @@ The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen befor
 * Riaz Philippe - BSc Computer Games Graduate
 
 ## References
+* [Bomberman LBP2 Level Link](https://lbp.me/v/q3q01np)
 * [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
 * [LittleBigPlanet 2](https://en.wikipedia.org/wiki/LittleBigPlanet_2)
-* [Bomberman LBP2 Level Link](https://lbp.me/v/q3q01np)
