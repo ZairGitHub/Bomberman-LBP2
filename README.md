@@ -2,6 +2,26 @@
 
 Repository designed to showcase [Bomberman LBP2](https://lbp.me/v/q3q01np), a personal project undertaken in my own free time where I took it upon myself to explore the design philosophy of the Bomberman series and to learn about the practices of independent game development. The game is finished and fully functional, yet several planned features have been forcibly omitted as the game engine suffers from serious memory constraint issues.
 
+| Table of Contents |
+|-------------------|
+| [Bomberman LBP2](https://github.com/ZairGitHub/Bomberman-LBP2#bomberman-lbp2) |
+| [Level Description](https://github.com/ZairGitHub/Bomberman-LBP2#level-description) |
+| [Getting Started](https://github.com/ZairGitHub/Bomberman-LBP2#getting-started) |
+| &emsp; [Prerequisites](https://github.com/ZairGitHub/Bomberman-LBP2#prerequisites) |
+| [Project] Showcase(https://github.com/ZairGitHub/Bomberman-LBP2#project-showcase) |
+| &emsp; [Video Demonstration](Video Demonstration) |
+| &emsp; [TITLE Menu]() |
+| &emsp; [CONTROLS Menu]() |
+| &emsp; [INFORMATION Menu]() |
+| &emsp; [SETTINGS Menu]() |
+| &emsp; [PLAY]() |
+| &emsp; [Gameplay (Single-player)]() |
+| &emsp; [Gameplay (Multiplayer)]() |
+| &emsp; [Photo Session (Optional)]() |
+| &emsp; [Ending]() |
+| [Authors]() |
+| [References]() |
+
 ## Level Description
 
 **Bomberman LBP2 (1-4 Players) by XZairX**
