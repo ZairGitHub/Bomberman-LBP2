@@ -6,7 +6,7 @@ Repository designed to showcase Bomberman LBP2, a personal project undertaken in
 
 **Bomberman LBP2 (1-4 Players) by XZairX**
 
-It's Bomberman in LBP! Lose yourself as you drop bombs to doom your friends in this faithful recreation of one of the greatest multiplayer experiences to ever grace the '90s! In addition to the classic Bomberman gameplay, this level features a HUD, life system, settings for game cusomtisation, and special bomb upgrades! Please note that playing alone will force you into "Practice Mode" where you won't have an opponent to fight against. For the true Bomberman experience, play online with other people! Enjoy!
+It's Bomberman in LBP! Lose yourself as you drop bombs to doom your friends in this faithful recreation of one of the greatest multiplayer experiences to ever grace the '90s! In addition to the classic Bomberman gameplay, this level features a HUD, life system, settings for game customisation, and special bomb upgrades! Please note that playing alone will force you into "Practice Mode" where you won't have an opponent to fight against. For the true Bomberman experience, play online with other people! Enjoy!
 
 
 | Table of Contents |
