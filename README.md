@@ -10,7 +10,7 @@ Repository designed to showcase [Bomberman LBP2](https://lbp.me/v/q3q01np), a pe
 | &emsp; [Prerequisites](https://github.com/ZairGitHub/Bomberman-LBP2#prerequisites) |
 | [Project Showcase](https://github.com/ZairGitHub/Bomberman-LBP2#project-showcase) |
 | &emsp; [Video Demonstration](#video-demonstration) |
-| &emsp; [TITLE Menu](https://github.com/ZairGitHub/Bomberman-LBP2#title-menu) |
+| &emsp; [TITLE Menu](#title-menu) |
 | &emsp; [CONTROLS Menu](https://github.com/ZairGitHub/Bomberman-LBP2#controls-menu) |
 | &emsp; [INFORMATION Menu](https://github.com/ZairGitHub/Bomberman-LBP2#information-menu) |
 | &emsp; [SETTINGS Menu](https://github.com/ZairGitHub/Bomberman-LBP2#settings-menu) |
