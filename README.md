@@ -11,7 +11,7 @@ It's Bomberman in LBP! Lose yourself as you drop bombs to doom your friends in t
 
 | Table of Contents |
 |-------------------|
-| [Termination of Online Services](#termination-of-online-services) |
+| [Termination of Support](#termination-of-support) |
 | [Getting Started](#getting-started) |
 | &emsp; [Prerequisites](#prerequisites) |
 | [Project Showcase](#project-showcase) |
