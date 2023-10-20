@@ -4,23 +4,23 @@ Repository designed to showcase [Bomberman LBP2](https://lbp.me/v/q3q01np), a pe
 
 | Table of Contents |
 |-------------------|
-| [Bomberman LBP2](https://github.com/ZairGitHub/Bomberman-LBP2#bomberman-lbp2) |
-| [Level Description](https://github.com/ZairGitHub/Bomberman-LBP2#level-description) |
-| [Getting Started](https://github.com/ZairGitHub/Bomberman-LBP2#getting-started) |
-| &emsp; [Prerequisites](https://github.com/ZairGitHub/Bomberman-LBP2#prerequisites) |
-| [Project Showcase](https://github.com/ZairGitHub/Bomberman-LBP2#project-showcase) |
+| [Bomberman LBP2](#bomberman-lbp2) |
+| [Level Description](#level-description) |
+| [Getting Started](#getting-started) |
+| &emsp; [Prerequisites](#prerequisites) |
+| [Project Showcase](#project-showcase) |
 | &emsp; [Video Demonstration](#video-demonstration) |
 | &emsp; [TITLE Menu](#title-menu) |
-| &emsp; [CONTROLS Menu](https://github.com/ZairGitHub/Bomberman-LBP2#controls-menu) |
-| &emsp; [INFORMATION Menu](https://github.com/ZairGitHub/Bomberman-LBP2#information-menu) |
-| &emsp; [SETTINGS Menu](https://github.com/ZairGitHub/Bomberman-LBP2#settings-menu) |
-| &emsp; [PLAY](https://github.com/ZairGitHub/Bomberman-LBP2#play) |
-| &emsp; [Gameplay (Single-player)]() |
-| &emsp; [Gameplay (Multiplayer)]() |
-| &emsp; [Photo Session (Optional)]() |
-| &emsp; [Ending]() |
-| [Authors]() |
-| [References]() |
+| &emsp; [CONTROLS Menu](#controls-menu) |
+| &emsp; [INFORMATION Menu](#information-menu) |
+| &emsp; [SETTINGS Menu](#settings-menu) |
+| &emsp; [PLAY](#play) |
+| &emsp; [Gameplay (Single-player)](#gameplay-single-player) |
+| &emsp; [Gameplay (Multiplayer)](#gameplay-multiplayer) |
+| &emsp; [Photo Session (Optional)](#photo-session-optional) |
+| &emsp; [Ending](#ending) |
+| [Authors](#authors) |
+| [References](#references) |
 
 ## Level Description
 
