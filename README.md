@@ -11,7 +11,7 @@ It's Bomberman in LBP! Lose yourself as you drop bombs to doom your friends in t
 
 | Table of Contents |
 |-------------------|
-| [Closure of Servers](#) |
+| [Termination of Online Services](#termination-of-online-services) |
 | [Getting Started](#getting-started) |
 | &emsp; [Prerequisites](#prerequisites) |
 | [Project Showcase](#project-showcase) |
@@ -28,12 +28,13 @@ It's Bomberman in LBP! Lose yourself as you drop bombs to doom your friends in t
 | [Authors](#authors) |
 | [References](#references) |
 
-## Closure of Servers
+## Termination of Online Services
 
-- Servers closed
-- https://twitter.com/LittleBigPlanet/status/1437415883752845318
-- No longer accessible
-- No longer being maintained
+As of September 13th 2021, the online server for LittleBigPlanet 2, the game which provides the game engine necessary to run this project, has been [permanently shut down](https://twitter.com/LittleBigPlanet/status/1437415883752845318). As I can no longer provide updates to the project, it is important to note that it cannot and will no longer be maintained. This project should still be accessible via LittleBigPlanet 3, a game for the PlayStation 4 video game console, which reportedly supports backwards-compatibility for creations uploaded within LittleBigPlanet 2. I will not be investing in this game to continue development for this project so I cannot speak for any changes in its functionality as a result of being accessed through a different system than what was intended. The following information in this repository will treat the project as if the online server for LittleBigPlanet 2 were still online.
+
+- Twitter server shutdown image
+
+The destruction of these servers has also had the unfortunate side effect of terminating the [LBP.me website](https://littlebigplanet.fandom.com/wiki/LBP.me). This ultimately means that the level information and statistics relating to this project including data metrics such as number of plays, favourites, ratings, reviews, comments, and more, are no longer viewable online.
 
 ## Getting Started
 
