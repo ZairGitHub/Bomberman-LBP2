@@ -2,10 +2,16 @@
 
 Repository designed to showcase [Bomberman LBP2](https://lbp.me/v/q3q01np), a personal project undertaken in my own free time where I took it upon myself to explore the design philosophy of the Bomberman series and to learn about the practices of independent game development. The game is finished and fully functional, yet several planned features have been forcibly omitted as the game engine suffers from serious memory constraint issues.
 
+## Level Description
+
+**Bomberman LBP2 (1-4 Players) by XZairX**
+
+It's Bomberman in LBP! Lose yourself as you drop bombs to doom your friends in this faithful recreation of one of the greatest multiplayer experiences to ever grace the '90s! In addition to the classic Bomberman gameplay, this level features a HUD, life system, settings for game cusomtisation, and special bomb upgrades! Please note that playing alone will force you into "Practice Mode" where you won't have an opponent to fight against. For the true Bomberman experience, play online with other people! Enjoy!
+
+
 | Table of Contents |
 |-------------------|
-| [Bomberman LBP2](#bomberman-lbp2) |
-| [Level Description](#level-description) |
+| [Closure of Servers](#) |
 | [Getting Started](#getting-started) |
 | &emsp; [Prerequisites](#prerequisites) |
 | [Project Showcase](#project-showcase) |
@@ -22,11 +28,12 @@ Repository designed to showcase [Bomberman LBP2](https://lbp.me/v/q3q01np), a pe
 | [Authors](#authors) |
 | [References](#references) |
 
-## Level Description
+## Closure of Servers
 
-**Bomberman LBP2 (1-4 Players) by XZairX**
-
-It's Bomberman in LBP! Lose yourself as you drop bombs to doom your friends in this faithful recreation of one of the greatest multiplayer experiences to ever grace the '90s! In addition to the classic Bomberman gameplay, this level features a HUD, life system, settings for game cusomtisation, and special bomb upgrades! Please note that playing alone will force you into "Practice Mode" where you won't have an opponent to fight against. For the true Bomberman experience, play online with other people! Enjoy!
+- Servers closed
+- https://twitter.com/LittleBigPlanet/status/1437415883752845318
+- No longer accessible
+- No longer being maintained
 
 ## Getting Started
 
