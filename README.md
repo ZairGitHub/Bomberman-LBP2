@@ -153,7 +153,7 @@ The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen befor
 - Pressure blocks
 - Rounds
 - Designing MVP Bomberman (basic -> utility -> special bombs)
-- Bomberman Unity and Unreal Engine
+- Bomberman Unity (Shapes) and Unreal Engine
 
 ## Authors
 
