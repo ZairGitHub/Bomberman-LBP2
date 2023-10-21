@@ -33,6 +33,8 @@ The destruction of these servers has also had the unfortunate side effect of ter
 | &emsp; [Gameplay (Multiplayer)](#gameplay-multiplayer) |
 | &emsp; [Photo Session (Optional)](#photo-session-optional) |
 | &emsp; [Ending](#ending) |
+| [Scrapped Update](#scrapped-update) |
+| [Remarks](#remarks) |
 | [Authors](#authors) |
 | [References](#references) |
 
