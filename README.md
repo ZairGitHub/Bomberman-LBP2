@@ -33,8 +33,11 @@ The destruction of these servers has also had the unfortunate side effect of ter
 | &emsp; [Gameplay (Multiplayer)](#gameplay-multiplayer) |
 | &emsp; [Photo Session (Optional)](#photo-session-optional) |
 | &emsp; [Ending](#ending) |
-| [Scrapped Update](#scrapped-update) |
 | [Remarks](#remarks) |
+| &emsp; [Scrapped Update](#scrapped-update) |
+| &emsp; [Design Philosophy](#design-philosophy) |
+| &emsp; [Limitations of the LittleBigPlanet 2 Game Engine](#limitations-of-the-littlebigplanet-2-game-engine) |
+| &emsp; [Future Iterations](#future-iterations) |
 | [Authors](#authors) |
 | [References](#references) |
 
@@ -121,16 +124,33 @@ After the game ends by means of a win, loss, draw, or time out, all of the playe
 
 The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be assessed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the discretion of the host to replay the level should they wish to simulate this experience.
 
-## Scrapped Update
-- Pierce bombs
-- Meaningful options
-
 ## Remarks
-- Understanding movement
+
+### Scrapped Update
+
+- Pierce bombs
+- Meaningful settings
+  - Image of planned new settings menu
+
+### Design Philosophy
+
+- Playing Bomberman with others
+- What defines a good Bomberman experience?
+- Bomberman Java
+
+### Limitations of the LittleBigPlanet 2 Game Engine
+
 - No polymorphism
+- No inheritance
+- Memory constraints
+- Age (2011 release for 2006 tech)
+
+### Future Iterations
+
+- Understanding and correcting movement
 - Pressure blocks
 - Rounds
-- Designing Bomberman (basic -> utility -> special bombs)
+- Designing MVP Bomberman (basic -> utility -> special bombs)
 - Bomberman Unity and Unreal Engine
 
 ## Authors
