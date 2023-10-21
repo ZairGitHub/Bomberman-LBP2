@@ -140,8 +140,10 @@ The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen befor
 
 ### Limitations of the LittleBigPlanet 2 Game Engine
 
-- No polymorphism
-- No inheritance
+- No code - all done with logic circuits and gates
+- No concept of OOP (4 principles)
+  - No polymorphism
+  - No inheritance
 - Memory constraints
 - Age (2011 release for 2006 tech)
 
