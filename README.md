@@ -120,14 +120,16 @@ After the game ends by means of a win, loss, draw, or time out, all of the playe
 The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen before collapsing to allow for the final scores of the players to be assessed on the scoreboard behind it. After this process finishes, the level ends and the game host has the option to either replay or exit the level. Unfortunate memory issues prevent the crucial implementation of having multiple rounds within a single session, and it has been left to the discretion of the host to replay the level should they wish to simulate this experience.
 
 ## Scrapped Update
-Pierce bombs
-Meaningful options
+- Pierce bombs
+- Meaningful options
 
 ## Remarks
-Understanding movement
-No polymorphism
-Pressure blocks
-Rounds
+- Understanding movement
+- No polymorphism
+- Pressure blocks
+- Rounds
+- Designing Bomberman (basic -> utility -> special bombs)
+- Bomberman Unity and Unreal Engine
 
 ## Authors
 
