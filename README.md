@@ -129,8 +129,16 @@ The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen befor
 ### Scrapped Update
 
 - Pierce bombs
+
 - Meaningful settings
-  - Image of planned new settings menu
+  - Image of planned new settings menu (green represents default states)
+ 
+ - HUD (default OFF)
+ - Stage (default NORMAL)
+ - Hearts (default OFF)
+ - Popit (default OFF)
+ 
+ 
 
 ### Design Philosophy
 
