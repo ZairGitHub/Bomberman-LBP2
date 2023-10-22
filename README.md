@@ -35,6 +35,8 @@ The destruction of these servers has also had the unfortunate side effect of ter
 | &emsp; [Ending](#ending) |
 | [Remarks](#remarks) |
 | &emsp; [Scrapped Update](#scrapped-update) |
+| &emsp; &emsp; [Overhauled SETTINGS Menu](#overhauled-settings-menu) |
+| &emsp; &emsp; [Pierce Bombs (removal of Remote Bombs)](#pierce-bombs-removal-of-remote-bombs) |
 | &emsp; [Design Philosophy](#design-philosophy) |
 | &emsp; [Limitations of the LittleBigPlanet 2 Game Engine](#limitations-of-the-littlebigplanet-2-game-engine) |
 | &emsp; [Future Iterations](#future-iterations) |
@@ -130,6 +132,8 @@ The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen befor
 
 Prior to the [termination of the LittleBigPlanet 2 online server](https://twitter.com/LittleBigPlanet/status/1437415883752845318) a final update was in development that aimed to provide meaningful quality of life updates to the project. These updates formed as a result of my strengthened experience and history with the Bomberman formula thanks to owning and extensively playing Super Bomberman R (2017) and Super Bomberman R Online (2020). Though I owned and extensively played Bomberman Live (2007) throughout the lifespan of this project's development, it made for a poor frame of reference as the game is riddled with problems and inconveniences that prevent it from being anything close a definitive Bomberman multiplayer experience. Whilst I also strongly believe that both Super Bomberman R and Super Bomberman R Online are also far from providing a definitive Bomberman mutliplayer experience, they at least implement their few gameplay mechanisms in a perfectly functional and sound manner. Thus, they serve as a strong frame of reference when mirroring the implementation of these same features into the project. This section will detail the major changes that this final update would have brought to the project had the servers not been terminated prior to its completion.
 
+#### Overhauled SETTINGS Menu
+
 The biggest and most important change comes from the completely overhauled `SETTINGS` menu. The aim when designing this new menu was to add meaningful options that encouraged replayability. I felt that the current options were quite arbitary and had a very minimal impact on replayability due to not doing much aside from affecting the initial state of the game. An image of the overhauled `SETTINGS` menu has been provided below alongside a full description of the effects that each option would have had:
 
 - Image of overhauled `SETTINGS` menu
@@ -158,8 +162,9 @@ This update would have limited the maximum heart count to 2, down from 3, as hav
 
 The Popit is a LittleBigPlanet 2 feature that has many capabilities. However, in the context of this project, the most important tool that it provides is the ability to use text chat which provides a universal means for players to communicate with each other. Because of the way the button mapping in this engine is handled, the D-pad cannot be used unless the Popit is disabled. This creates a problem where players need to weigh the importance of being able to communicate with each other with text chat versus being able to better control their characters with the support of D-pad movement.
 
+#### Pierce Bombs (removal of Remote Bombs)
+
 This update would have seen the removal of Remote Bombs. I initially added Remote Bombs to the game as I wanted to experiment with their viability in online play. Many Bomberman games feature the Remote Bombs in their single-player campaigns yet omit them from multiplayer. I now understand that this is a deliberate balancing act as the ability to detonate bombs on demand
-- Pierce bombs 
 
 ### Design Philosophy
 
