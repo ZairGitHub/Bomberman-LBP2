@@ -128,17 +128,34 @@ The final screen of the level. A "THANKS FOR PLAYING" text is briefly seen befor
 
 ### Scrapped Update
 
-- Pierce bombs
+Prior to the [termination of the LittleBigPlanet 2 online server](https://twitter.com/LittleBigPlanet/status/1437415883752845318) a final update was planned that aimed to provide meaningful quality of life updates to the game now to reflect my stronger experience and history with Bomberman thanks to owning and extensively playing Super Bomberman R (2017) and Super Bomberman R Online (2020). Though I owned and played Bomberman Live (2007) throughout the lifespan of this project's development, it made for a poor frame of reference as the game is riddled with problems and inconveniences that prevent it from being anything close to the best Bomberman experience around. Whilst I believe that both Super Bomberman R and Super Bomberman R Online are also far from being the best Bomberman around, their mechanisms are at least functional and make for a good frame of reference for the implementation of mechanics relating to Bomberman. This section aims to detail the changes that this final update would have brought to the project had the servers not been terminated prior to its completion.
 
-- Meaningful settings
-  - Image of planned new settings menu (green represents default states)
+The biggest and most important change comes from the completely overhauled `SETTINGS` menu. The aim when designing this new menu was to add meaningful options that encouraged replayability as opposed to the current arbitary settings that hardly have an impact on gameplay. A description of each setting is as follows:
+
+- Image of overhauled `SETTINGS` menu
+
+**HUD:**
+   - `OFF`: (default): Removes the player HUD located on the left-hand side of the arena, significantly reducing the number of objects on-screen to improve game stability and performance.
+   - `ON`: Retains the player HUD to allow for players to view their bomb count, fire range, skate speed, special bombs (if applicable), and hearts.
+
+This update would have also completely removed the Power-UP key located on the right-hand side of the arena. I felt that enough information had been covered in the INFORMATION menu and the Power-UP key required a significant amount of extra objects to always be displayed on-screen which I found to cause unnecessary performance issues.
+
+**STAGE:**
+  - `CLASSIC` (default):
+  - `POWER`:
+  - `SPEED`:
  
- - HUD (default OFF)
- - Stage (default NORMAL)
- - Hearts (default OFF)
- - Popit (default OFF)
- 
- 
+ **HEARTS:**
+  - `OFF` (default):
+  - `ONE`:
+  - `TWO`:
+
+**POPIT:**
+  - `OFF` (default):
+  - `ON`:
+
+This update would have seen the removal of Remote Bombs. I initially added Remote Bombs to the game as I wanted to experiment with their viability in online play. Many Bomberman games feature the Remote Bombs in their single-player campaigns yet omit them from multiplayer. I now understand that this is a deliberate balancing act as the ability to detonate bombs on demand
+- Pierce bombs 
 
 ### Design Philosophy
 
