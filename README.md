@@ -145,10 +145,12 @@ This update would have also completely removed the Power-Ups key located on the 
   - `POWER`: All players start with 8 (maximum) bombs, 8 (maximum) fires, 2 (half of the maximum) skates, and a single heart in an arena without any soft-blocks. This mirrors the rules of the Power Zone maps featured in Bomberman games.
   - `SPEED`: All players start with 1 bomb, 2 fires, 4 (maximum) skates, and a single heart in a standard arena. This mirrors the rules of the Speed Zone maps featured in Bomberman games.
  
- **HEARTS:**
-  - `OFF` (default):
-  - `ONE`:
-  - `TWO`:
+ **HEARTS:** Determines how many hits all players can initially take before being removed from play. Also enables/disables the Heart power-up.
+  - `OFF` (default): All players start with one heart and cannot gain any additional hearts. This is the only option to disable the Heart power-up and it is faithful to Bomberman's multiplayer.
+  - `ONE`: All players start with one heart and can gain an additional heart if they interact with a Heart power-up.
+  - `TWO`: All players start with two hearts and can regain hearts if they interact with a Heart power-up after taking a hit.
+
+This update would have limited the maximum heart count to 2, down from 3, as having to damage a player three times before victory within a two minute time limit is hardly reflective of a good Bomberman experience. Hearts have been retained to allow for beginners to experiment with the game without worrying about immediately being removed from play by accidently blowing themselves up. Having two hearts also permits the use of the hidden Vest power-up which is simply a nice bonus feature to have.
 
 **POPIT:**
   - `OFF` (default):
