@@ -152,9 +152,11 @@ This update would have also completely removed the Power-Ups key located on the 
 
 This update would have limited the maximum heart count to 2, down from 3, as having to damage a player three times before victory within a two minute time limit is hardly reflective of a good Bomberman experience. Hearts have been retained to allow for beginners to experiment with the game without worrying about immediately being removed from play by accidently blowing themselves up. Having two hearts also permits the use of the hidden Vest power-up which is simply a nice bonus feature to have.
 
-**POPIT:**
-  - `OFF` (default):
-  - `ON`:
+**POPIT:** Toggles to the use of the directional pad (D-pad) for increased manoeuvrability options at the cost of disabling the Popit.
+  - `OFF` (default): Disables the Popit and enables the use of the D-pad in addition to the Left Stick for movement.
+  - `ON`: Enables the Popit and disables the use of the D-pad, limiting movement to only the Left Stick.
+
+The Popit is a LittleBigPlanet 2 feature that has many capabilities. However, in the context of this project, the most important tool that it provides is the ability to use text chat which provides a universal means for players to communicate with each other. Because of the way the button mapping in this engine is handled, the D-pad cannot be used unless the Popit is disabled. This creates a problem where players need to weigh the importance of being able to communicate with each other with text chat versus being able to better control their characters with the support of D-pad movement.
 
 This update would have seen the removal of Remote Bombs. I initially added Remote Bombs to the game as I wanted to experiment with their viability in online play. Many Bomberman games feature the Remote Bombs in their single-player campaigns yet omit them from multiplayer. I now understand that this is a deliberate balancing act as the ability to detonate bombs on demand
 - Pierce bombs 
