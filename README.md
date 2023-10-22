@@ -164,7 +164,7 @@ The Popit is a LittleBigPlanet 2 feature that has many capabilities. However, in
 
 #### Pierce Bombs (removal of Remote Bombs)
 
-This update would have seen the removal of Remote Bombs. I initially added Remote Bombs to the game as I wanted to experiment with their viability in online play. Many Bomberman games feature the Remote Bombs in their single-player campaigns yet omit them from multiplayer. I now understand that this is a deliberate balancing act as the ability to detonate bombs on demand
+This update would have also seen the removal of Remote Bombs. I initially added Remote Bombs to the game as I wanted to experiment with their viability in online play. Many Bomberman games feature the Remote Bombs in their single-player campaigns yet omit them from multiplayer. I now understand that this is a deliberate balancing act as the ability to detonate bombs on demand is not only overwhelming for opposing players but it also takes away from the strategic positioning of the core Bomberman gameplay. Remote Bombs would have been replaced by the Pierce Bomb. This special bomb transforms all of the players bombs, modifies the colour of their fire, and has the fire travel through and destroy any collided soft-blocks and power-ups. It is only stopped by hard blocks if not limited by range. This special bomb is more commonplace in Bomberman games and is a far more balanced alternative to the Remote Bomb.
 
 ### Design Philosophy
 
