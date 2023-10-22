@@ -140,10 +140,10 @@ The biggest and most important change comes from the completely overhauled `SETT
 
 This update would have also completely removed the Power-Ups key located on the right-hand side of the arena. I felt that enough information on the Power-Ups had alreadt been covered in the `INFORMATION` menu and the Power-Ups key had a detrimental effect on gameplay performance and stability that was not worth the compromise of ensuring that ignorant players could identify the many power-ups that they interact with.
 
-**STAGE:**
-  - `CLASSIC` (default):
-  - `POWER`:
-  - `SPEED`:
+**STAGE:** Changes the initial state of all player inventories and the game state based on the option selected.
+  - `CLASSIC` (default): All players start with 1 bomb, 2 fires, 0 skate, and a single heart in a standard arena. These are the rules of a classic Bomberman multiplayer game.
+  - `POWER`: All players start with 8 (maximum) bombs, 8 (maximum) fires, 2 (half of the maximum) skates, and a single heart in an arena without any soft-blocks. This mirrors the rules of the Power Zone maps featured in Bomberman games.
+  - `SPEED`: All players start with 1 bomb, 2 fires, 4 (maximum) skates, and a single heart in a standard arena. This mirrors the rules of the Speed Zone maps featured in Bomberman games.
  
  **HEARTS:**
   - `OFF` (default):
