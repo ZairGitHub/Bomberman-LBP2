@@ -168,11 +168,9 @@ This update would have also seen the removal of Remote Bombs. I initially added 
 
 ### Design Philosophy
 
-This section aims to detail the design philosphy of the project. It explores the mindset of the developer and offers insight as to why certain decisions were made. This project was created with the sole purpose to play Bomberman online with others. However, it is important to note that in the early prototype stages of this project's development, the project was not based off of an official Bomberman game but of Playing with Fire 2, a 2006 flash game that is essentially a Bomberman clone. It was not until 2016 that I eventually discovered the Bomberman franchise, bought Bomberman Ultra and the officially rebranded the project to its current Bomberman LBP2 iteration. Having said that, aspects of development stemming from its Playing with Fire 2 prototype still remain, most notably with the presentation of the player HUD, the choice of colours that are assigned to each player, and the implementation of the heart system.
+This project was created with the sole purpose to play Bomberman online with others. However, it is important to note that in the early prototype stages of this project's development, the project was not based off of an official Bomberman game but of Playing with Fire 2, a 2006 flash game that is essentially a lesser Super Bomberman 2 (1994) clone. It was not until 2016 that I eventually discovered the Bomberman franchise, bought Bomberman Ultra and the officially rebranded the project to its current Bomberman LBP2 iteration. Having said that, aspects of development stemming from its Playing with Fire 2 prototype build still remain, most notably with the presentation of the player HUD, the choice of colours that are assigned to each player, and the implementation of the heart system.
 
-- Playing Bomberman with others
-- What defines a good Bomberman experience?
-- Bomberman Java
+Following the rebranding, an important question remained: now that I am aware of the Bomberman franchise, how do I define what makes a good Bomberman experience? Over the many decades that Bomberman has existed, many features have persisted yet have been prone to change due to the constant refinement that the series faces. I explored this in my [Bomberman Java]() project (whose development overlaps this project) where I used a combination of my own experience with a feature, its implementation in Super Bomberman 2 and Saturn Bomberman (the most highly recieved Bomberman games from fans), and the community feedback in the form of the Power Bomberman community fan game to determine the best possible way to implement a given feature of the Bomberman formula.
 
 ### Limitations of the LittleBigPlanet 2 Game Engine
 
