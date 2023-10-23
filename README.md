@@ -149,12 +149,12 @@ This update would have also completely removed the Power-Ups key located on the 
   - `POWER`: All players start with 8 (maximum) bombs, 8 (maximum) fires, 2 (half of the maximum) skates, and a single heart in an arena without any soft-blocks. This mirrors the rules of the Power Zone maps featured in Bomberman games.
   - `SPEED`: All players start with 1 bomb, 2 fires, 4 (maximum) skates, and a single heart in a standard arena. This mirrors the rules of the Speed Zone maps featured in Bomberman games.
  
- **HEARTS:** Determines how many hits all players can initially take before being removed from play. Also enables/disables the Heart power-up.
-  - `OFF` _(default)_: All players start with one heart and cannot gain any additional hearts. This is the only option to disable the Heart power-up and it is faithful to Bomberman's multiplayer.
-  - `ONE`: All players start with one heart and can gain an additional heart if they interact with a Heart power-up.
-  - `TWO`: All players start with two hearts and can regain hearts if they interact with a Heart power-up after taking a hit.
+ **HEARTS:** Determines how many hits all players can initially take before being removed from play. Also enables/disables the heart system.
+  - `OFF` _(default)_: All players start with 1 heart and cannot gain any additional hearts. This is the only option to disable the heart system and it is faithful to the classic Bomberman multiplayer experience.
+  - `ONE`: All players start with 1 heart and can gain additional hearts if they interact with a Heart power-up.
+  - `TWO`: All players start with 2 hearts and can regain hearts if they interact with a Heart power-up after taking a hit.
 
-This update would have limited the maximum heart count to 2, down from 3, as having to damage a player three times before victory within a two minute time limit is hardly reflective of a good Bomberman experience. Hearts have been retained to allow for beginners to experiment with the game without worrying about immediately being removed from play by accidently blowing themselves up. Having two hearts also permits the use of the hidden Vest power-up which is simply a nice bonus feature to have.
+This update would have limited the maximum heart count to 2, down from 3, as having to damage a player at least three times before victory within a two minute time limit is hardly reflective of a good Bomberman experience. Whilst not entirely faithful to the Bomberman multiplayer experience (though one could make an argument that they substitute the implementation of Louies - rideable creatures that grant players an extra hit point), the heart system has been retained to allow for beginners to experiment with the game without the issue of being immediately removed from play as a result of accidently blowing themselves up. Having two hearts also permits the implementation and use of the hidden Vest power-up which is simply a nice bonus feature to have.
 
 **POPIT:** Toggles to the use of the directional pad (D-pad) for increased manoeuvrability options at the cost of disabling the Popit.
   - `OFF` _(default)_: Disables the Popit and enables the use of the D-pad in addition to the Left Stick for movement.
