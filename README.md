@@ -176,7 +176,7 @@ Following the rebranding, an important question surfaced: now that I am aware of
 1. How does the feature impact gameplay balance? How does the variation affect the feature?
 2. What is my own experience with the feature? How did it affect the gameplay when it was added? How would it affect the gameplay if it was removed?
 3. How was this feature implemented in Super Bomberman 2 and Saturn Bomberman? These two games being widely considered by fans to the best Bomberman games of all time.
-4. How was this feature implemented in Power Bomberman? A fan game that has taken feedback from the community throughout its continous development to understand and implement what is arguably the best possible version of a feature.
+4. How was this feature implemented in Power Bomberman? A fan game that has taken feedback from the community throughout its continuous development to understand and implement what is arguably the best possible version of a feature.
 
   - Image of Power Bomberman
 
