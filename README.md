@@ -172,9 +172,11 @@ This project was created with the sole purpose to play Bomberman online with oth
 
   - Image of Playing with Fire 2
 
-Following the rebranding, an important question surfaced: now that I am aware of the Bomberman franchise, how do I define what makes a good Bomberman experience? Over the many decades that Bomberman has existed, many features have persisted yet they have also been prone to change due to the constant refinement that the series experiences. I explored this issue extensively in my [Bomberman Java project](https://github.com/ZairGitHub/Bomberman-Java) (whose development coincided with this project) and formed a design philosophy consisting of four factors when considering the implementation of a feature.
-
-The first factor assesses feature's impact towards game balance. The second factor considers my own experience with the feature, if applicable. The third factor look at the feature's implementation in Super Bomberman 2 and Saturn Bomberman, Bomberman games which are widely considered by fans to be among the best of all time. Finally, the fourth and final factor considers the feature's implementation in Power Bomberman, a community fan game that has taken feedback from the community throughout its continous development to understand and implement what is arguably the best possible version of a feature.
+Following the rebranding, an important question surfaced: now that I am aware of the Bomberman franchise, how do I define what makes a good Bomberman experience? Over the many decades that Bomberman has existed, many features have persisted yet they have also been prone to change due to the constant refinement that the series experiences. I explored this issue extensively in my [Bomberman Java project](https://github.com/ZairGitHub/Bomberman-Java) (whose development coincided with this project) and formed a design philosophy consisting of four factors when considering the implementation of a feature:
+1. How does the feature impact gameplay balance? How does the variation affect the feature?
+2. What is my own experience with the feature? How did it affect the gameplay when it was added? How would it affect the gameplay if it was removed?
+3. How was this feature implemented in Super Bomberman 2 and Saturn Bomberman? These two games being widely considered by fans to the best Bomberman games of all time.
+4. How was this feature implemented in Power Bomberman? A fan game that has taken feedback from the community throughout its continous development to understand and implement what is arguably the best possible version of a feature.
 
   - Image of Power Bomberman
 
