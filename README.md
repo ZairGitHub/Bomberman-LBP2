@@ -20,6 +20,8 @@ The destruction of these servers has also had the unfortunate side effect of ter
 
 As of April 19th 2024, [all LittleBigPlanet servers have been closed indefinitely](https://twitter.com/LittleBigPlanet/status/1781427669801820406). This means that all information relating to this project is no longer accessible.
 
+<image src="images/littlebigplanet3-service-update.png">
+
 ## Table of Contents
 
 | Contents |
@@ -27,7 +29,6 @@ As of April 19th 2024, [all LittleBigPlanet servers have been closed indefinitel
 | [Getting Started](#getting-started) |
 | &emsp; [Prerequisites](#prerequisites) |
 | [Project Showcase](#project-showcase) |
-| &emsp; [Video Demonstration](#video-demonstration) |
 | &emsp; [TITLE Menu](#title-menu) |
 | &emsp; [CONTROLS Menu](#controls-menu) |
 | &emsp; [INFORMATION Menu](#information-menu) |
@@ -59,10 +60,6 @@ A [Sony PlayStation 3 (PS3) video game console](https://en.wikipedia.org/wiki/Pl
 ## Project Showcase
 
 The following sections will detail the design and mechanisms of the numerous screens that the player can encounter when playing the game. These sections have been included to demonstrate the product to those who cannot meet the hardware prerequisites required to experience it first-hand. It also gives some insight into the ideology of some design decisions that were taken to improve the game after garnering player feedback. Any information relating to the design history of the product has been provided in block quotes to clearly separate it from the main description bodies of the project showcase.
-
-### Video Demonstration
-
-(Potentially coming soon)
 
 ### TITLE Menu
 
