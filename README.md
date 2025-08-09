@@ -42,8 +42,8 @@ As of April 19th 2024, [all LittleBigPlanet servers have been closed indefinitel
 | &emsp; [Scrapped Update](#scrapped-update) |
 | &emsp; &emsp; [Overhauled SETTINGS Menu](#overhauled-settings-menu) |
 | &emsp; &emsp; [Pierce Bombs (removal of Remote Bombs)](#pierce-bombs-removal-of-remote-bombs) |
-| [Notes](#notes) |
 | &emsp; [Design Philosophy](#design-philosophy) |
+| [Notes](#notes) |
 | &emsp; [Limitations of the LittleBigPlanet 2 Game Engine](#limitations-of-the-littlebigplanet-2-game-engine) |
 | &emsp; [Future Iterations](#future-iterations) |
 | [Authors](#authors) |
@@ -194,19 +194,22 @@ Following the rebranding, an important question surfaced: now that I am aware of
 
 ### Limitations of the LittleBigPlanet 2 Game Engine
 
-- No code - all done with logic circuits and gates
-- No concept of OOP (4 principles)
-  - No polymorphism
-  - No inheritance
-- Memory constraints
-- Age (2011 release for 2006 tech)
+- No coding whatsoever; all done with logic circuits and gates
+- No concept of Object-Oriented Programming
+  - No support for polymorphism
+  - No support for inheritance
+- Serious memory constraints that limited features for better or worse
+- Engine is old and dated compared to PC engines, being a stagnant [2011 release](https://en.wikipedia.org/wiki/LittleBigPlanet_2) for [2006 tech](https://en.wikipedia.org/wiki/PlayStation_3)
 
 ### Future Iterations
 
-- Understanding and correcting movement
-- Pressure blocks
-- Rounds
-- Designing MVP Bomberman (basic -> utility -> special bombs)
+- Understanding and correcting movement to be more faithful to the original games
+- Implementation of Pressure Blocks
+- Implementation of multiple Rounds
+- Designing MVP Bomberman:
+  1. Start with the basic power-ups such as Bomb-Up, Fire-Up, and Skate-Up
+  2. Implement utility power-ups such as Bomb Kick, and Bomb Punch
+  3. Implement extra power-ups such as the Power and Pierce Bombs
 - Bomberman Unity (Shapes) and Unreal Engine
 
 ## Authors
@@ -215,6 +218,6 @@ Following the rebranding, an important question surfaced: now that I am aware of
 
 ## References
 
-* [Bomberman LBP2 Level Link](https://lbp.me/v/q3q01np)
+* [Bomberman LBP2 Level Link (lbp.me)](https://lbp.me/v/q3q01np)
 * [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
 * [LittleBigPlanet 2](https://en.wikipedia.org/wiki/LittleBigPlanet_2)
