@@ -180,7 +180,7 @@ This project was created with the sole purpose to play Bomberman online with oth
 
 Having said that, aspects of development stemming from its Playing with Fire 2 prototype build still remain. Some examples of these aspects include the presentation of the player HUD, the choice of colours that are assigned to each player, and the implementation of the heart system.
 
-  - Image of Playing with Fire 2
+<image src="images/playing-with-fire-2-screenshot.png">
 
 Following the rebranding, an important question surfaced: now that I am aware of the Bomberman franchise, how do I define what makes a good Bomberman experience? Over the many decades that Bomberman has existed, many features have persisted yet they have also been prone to change due to the constant refinement that the series experiences. I explored this issue extensively in my [Bomberman Java project](https://github.com/ZairGitHub/Bomberman-Java) (whose development coincided with this project) and formed a design philosophy consisting of four factors when considering the implementation of a feature:
 1. How does the feature impact gameplay balance? How does the variation affect the feature?
@@ -188,7 +188,7 @@ Following the rebranding, an important question surfaced: now that I am aware of
 3. How was this feature implemented in Super Bomberman 2 and Saturn Bomberman? These two games being widely considered by fans to the best Bomberman games of all time.
 4. How was this feature implemented in Power Bomberman? A fan game that has taken feedback from the community throughout its continuous development to understand and implement what is arguably the best possible version of a feature.
 
-  - Image of Power Bomberman
+<image src="images/power-bomberman-screenshot.png">
 
 ## Notes
 
