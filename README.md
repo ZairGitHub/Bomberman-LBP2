@@ -139,7 +139,7 @@ Though I strongly believe that both Super Bomberman R and Super Bomberman R Onli
 
 The biggest and most important change comes from the completely overhauled `SETTINGS` menu. This overhauled menu was redesigned with the sole purpose to implement meaningful options that actively encouraged replayability. I felt that the current options were quite arbitrary and had a very minimal impact on replayability due its heavy focus on only altering the initial state of the game. Some of these new options also explore methods in which the state of the game can be brought closer to that of the source Bomberman material now that I have a stronger understanding of it. An image of the overhauled `SETTINGS` menu has been provided below alongside a full description of the effects that each selection would have had:
 
-- Image of overhauled `SETTINGS` menu
+<image src="images/04-settings-overhauled.png">
 
 **HUD:** Directly affects the player HUD located on the left-hand side of the arena to address gameplay performance and stability issues.
    - `OFF` _(default)_: Removes the player HUD to significantly reduce the number of on-screen objects and directly improve game performance and stability. It is also faithful to Bomberman's minimalistic multiplayer HUD.
