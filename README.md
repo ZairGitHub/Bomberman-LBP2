@@ -42,6 +42,7 @@ As of April 19th 2024, [all LittleBigPlanet servers have been closed indefinitel
 | &emsp; [Scrapped Update](#scrapped-update) |
 | &emsp; &emsp; [Overhauled SETTINGS Menu](#overhauled-settings-menu) |
 | &emsp; &emsp; [Pierce Bombs (removal of Remote Bombs)](#pierce-bombs-removal-of-remote-bombs) |
+| [Notes](#notes) |
 | &emsp; [Design Philosophy](#design-philosophy) |
 | &emsp; [Limitations of the LittleBigPlanet 2 Game Engine](#limitations-of-the-littlebigplanet-2-game-engine) |
 | &emsp; [Future Iterations](#future-iterations) |
@@ -175,7 +176,9 @@ Remote Bombs would have been replaced by the Pierce Bomb. This special bomb tran
 
 ### Design Philosophy
 
-This project was created with the sole purpose to play Bomberman online with others. Despite this, it is interesting to note that I was not actually aware of the Bomberman brand prior to the conception of this project. The early prototype stages of this project's development were entirely based on Playing with Fire 2 (2006), a flash game that is essentially a lesser Super Bomberman 2 (1994) clone. It was not until 2016 that I eventually discovered the Bomberman franchise, purchased Bomberman Ultra, and officially rebranded the project to its current Bomberman LBP2 iteration. Having said that, aspects of development stemming from its Playing with Fire 2 prototype build still remain. Some examples of these aspects include the presentation of the player HUD, the choice of colours that are assigned to each player, and the implementation of the heart system.
+This project was created with the sole purpose to play Bomberman online with others. Despite this, it is interesting to note that I was not actually aware of the Bomberman brand prior to the conception of this project. The early prototype stages of this project's development were entirely based on Playing with Fire 2 (2006), a flash game that is essentially a lesser Super Bomberman 2 (1994) clone. It was not until 2016 that I eventually discovered the Bomberman franchise, purchased Bomberman Ultra, and officially rebranded the project to its current Bomberman LBP2 iteration.
+
+Having said that, aspects of development stemming from its Playing with Fire 2 prototype build still remain. Some examples of these aspects include the presentation of the player HUD, the choice of colours that are assigned to each player, and the implementation of the heart system.
 
   - Image of Playing with Fire 2
 
@@ -186,6 +189,8 @@ Following the rebranding, an important question surfaced: now that I am aware of
 4. How was this feature implemented in Power Bomberman? A fan game that has taken feedback from the community throughout its continuous development to understand and implement what is arguably the best possible version of a feature.
 
   - Image of Power Bomberman
+
+## Notes
 
 ### Limitations of the LittleBigPlanet 2 Game Engine
 
