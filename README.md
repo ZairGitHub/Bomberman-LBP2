@@ -1,6 +1,6 @@
 # Bomberman LBP2
 
-Repository designed to showcase Bomberman LBP2, a personal project undertaken of my own initiative where I sought to explore the design philosophy of the Bomberman series and to learn about the practices of independent game development outside of my academic studies. The game is finished and fully functional, yet several planned features have been forcibly omitted as the game engine suffers from serious memory constraint issues.
+Repository designed to showcase Bomberman LBP2, a personal project undertaken of my own initiative where I sought to explore the design philosophy of the Bomberman video game series and to learn about the practices of independent game design and development outside of my academic studies. The project is finished and fully functional, yet several planned features have been forcibly omitted as its game engine suffers from serious memory constraint issues.
 
 ## Level Description
 
