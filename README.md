@@ -176,11 +176,11 @@ Remote Bombs would have been replaced by the Pierce Bomb. This special bomb tran
 
 ### Design Philosophy
 
-This project was created with the sole purpose to play Bomberman online with others. Despite this, it is interesting to note that I was not actually aware of the Bomberman brand prior to the conception of this project. The early prototype stages of this project's development were entirely based on Playing with Fire 2 (2006), a flash game that is essentially a lesser Super Bomberman 2 (1994) clone. It was not until 2016 that I eventually discovered the Bomberman franchise, purchased Bomberman Ultra, and officially rebranded the project to its current Bomberman LBP2 iteration.
+This project was initially created with the sole purpose to play Bomberman online with others. Despite this, it is interesting to note that I was not actually aware of the Bomberman brand prior to the conception of this project. The early prototype stages of this project's development were entirely based on Playing with Fire 2 (2006), a flash game that is essentially a lesser Super Bomberman 2 (1994) clone. It was not until 2016 that I eventually discovered the Bomberman franchise, purchased Bomberman Ultra, and officially rebranded the project to its current Bomberman LBP2 iteration.
 
 Having said that, aspects of development stemming from its Playing with Fire 2 prototype build still remain. Some examples of these aspects include the presentation of the player HUD, the choice of colours that are assigned to each player, and the implementation of the heart system.
 
-<image src="images/playing-with-fire-2-screenshot.png">
+<image src="images/playing-with-fire-2-screenshot.png" style="width:100%; height:auto;">
 
 Following the rebranding, an important question surfaced: now that I am aware of the Bomberman franchise, how do I define what makes a good Bomberman experience? Over the many decades that Bomberman has existed, many features have persisted yet they have also been prone to change due to the constant refinement that the series experiences. I explored this issue extensively in my [Bomberman Java project](https://github.com/ZairGitHub/Bomberman-Java) (whose development coincided with this project) and formed a design philosophy consisting of four factors when considering the implementation of a feature:
 1. How does the feature impact gameplay balance? How does the variation affect the feature?
