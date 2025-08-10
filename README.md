@@ -143,15 +143,15 @@ The biggest and most important change comes from the completely overhauled `SETT
 <image src="images/04-settings-overhauled.png">
 
 **HUD:** Directly affects the player HUD located on the left-hand side of the arena to address gameplay performance and stability issues.
-   - `OFF` _(default)_: Removes the player HUD to significantly reduce the number of on-screen objects and directly improve game performance and stability. It is also faithful to Bomberman's minimalistic multiplayer HUD.
+   - `OFF`: _(default)_: Removes the player HUD to significantly reduce the number of on-screen objects and directly improve game performance and stability. It is also faithful to Bomberman's minimalistic multiplayer HUD.
    - `ON`: Retains the player HUD to allow for players to view and manage their bomb count, fire range, skate speed, heart count, and their type of special bomb (if applicable). This comes at the cost of impacting the game's performance and stability as more objects need to be displayed on-screen.
 
 This update would have also completely removed the Power-Ups key located on the right-hand side of the arena. I felt that enough information on the Power-Ups had already been covered in the `INFORMATION` menu and the Power-Ups key has a detrimental effect on gameplay performance and stability due to the many additional objects that it demands to be displayed on-screen. I ultimately concluded that it was not worth compromising the gameplay's overall performance and stability to ensure that the more careless of players who skipped through the menus could correctly identify the many power-ups that they interact with.
 
 **STAGE:** Changes the initial state of all player inventories and the game state based on the option selected.
-  - `CLASSIC` _(default)_: All players start with 1 bomb, 2 fires, 0 skate, and a single heart in a standard arena. This mirrors the rules of a classic Bomberman multiplayer game.
-  - `POWER`: All players start with 8 (maximum) bombs, 8 (maximum) fires, 2 (half of the maximum) skates, and a single heart in an arena without any soft-blocks. This mirrors the rules of the Power Zone maps featured in Bomberman games.
-  - `SPEED`: All players start with 1 bomb, 2 fires, 4 (maximum) skates, and a single heart in a standard arena. This mirrors the rules of the Speed Zone maps featured in Bomberman games.
+  - `CLASSIC` _(default)_: All players start with 1 bomb, 2 fires, 0 skate in a standard arena. This mirrors the rules of a classic Bomberman multiplayer game.
+  - `POWER`: All players start with 8 (maximum) bombs, 8 (maximum) fires, 2 (half of the maximum) skates in an arena without any soft-blocks. This mirrors the rules of the Power Zone maps featured in Bomberman games.
+  - `SPEED`: All players start with 1 bomb, 2 fires, 4 (maximum) skates in a standard arena. This mirrors the rules of the Speed Zone maps featured in Bomberman games.
  
  **HEARTS:** Determines how many hits all players can initially take before being removed from play. Also enables/disables the heart system.
   - `OFF` _(default)_: All players start with 1 heart and cannot gain any additional hearts. This is the only option to disable the heart system and it is faithful to the classic Bomberman multiplayer experience.
