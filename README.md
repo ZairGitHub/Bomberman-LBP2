@@ -12,7 +12,7 @@ It's Bomberman in LBP! Lose yourself as you drop bombs to doom your friends in t
 
 As of September 13th 2021, the online server for LittleBigPlanet 2, the game which provides the game engine necessary to run this project, has been [permanently shut down](https://twitter.com/LittleBigPlanet/status/1437415883752845318). As such, I can no longer provide updates to the project and it will no longer be maintained. This project should still be accessible via the PlayStation 4 version of the LittleBigPlanet 3 game which reportedly supports backwards-compatibility for creations uploaded from LittleBigPlanet 2, but I cannot confirm this as I will not be investing in this game to continue development. I also cannot speak for any changes in its functionality as a result of being accessed through a different system than what was intended. The following information in this repository will treat the project as if the online server for LittleBigPlanet 2 were still online.
 
-<image src="images/littlebigplanet-service-update.png">
+<image src="images/littlebigplanet-service-update.png" style="width:100%; height:auto;">
 
 The destruction of these servers has also had the unfortunate side effect of terminating the [LBP.me website](https://littlebigplanet.fandom.com/wiki/LBP.me). This ultimately means that the level information and statistics relating to this project including data metrics such as number of plays, favourites, ratings, reviews, comments, and more, are no longer viewable online.
 
